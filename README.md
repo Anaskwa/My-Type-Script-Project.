@@ -1,1 +1,1 @@
-# My-Type-Script-Project.
+Types of variables.
